@@ -24,5 +24,5 @@ int main()
         cout<<"El area calculada es: "<<area<<" por lo tanto es impar."<<endl;
     }
 
-    return 0;
+    return 0; 
 }
